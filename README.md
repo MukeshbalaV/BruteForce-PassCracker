@@ -1,6 +1,5 @@
-Here’s a sample `README.md` file for your **BruteForce PassCracker** repository:
 
-```markdown
+
 # BruteForce PassCracker
 
 A simple password cracker using the brute force approach, written in batch programming. This project is created purely for **educational purposes** and aims to demonstrate the concept of brute force attacks in a controlled and ethical environment.
